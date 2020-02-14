@@ -1,0 +1,9 @@
+- item: About
+  url: /about/
+- item: Free Resources
+  url: /free/
+- item: Category A
+  url: categories/development/
+- item: Category B
+  url: categories/golang/
+
