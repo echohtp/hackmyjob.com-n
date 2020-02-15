@@ -12,8 +12,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [params]
 
-  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
-  description = "Case felt the edge of the Flatline as a construct, a hardwired ROM cassette replicating a dead man’s skills, obsessions, kneejerk responses."
+  ga_analytics = "UA-129297535-19" # google analytics ID e.g UA-116386578-1
+  description = "Work smarter not harder! We’re here to help you get your dream job. Gain the tools and learn the techniques needed to hack your job."
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
   twitter = "@hackmyjob_" # twitter handle e.g @weru
   logo = "logo.png"
@@ -32,3 +32,6 @@ pygmentsCodefencesGuessSyntax = true
 #   [Params.staticman.reCaptcha]
 #     siteKey = ""  # Use your own site key, you need to apply for one on Google
 #     secret  = ""  # ENCRYPT your password by going to https://<staticman-endpoint>/v3/encrypt/<your-site-secret>
+
+[markup.goldmark.renderer]
+unsafe = true

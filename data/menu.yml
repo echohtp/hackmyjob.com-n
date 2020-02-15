@@ -1,9 +1,9 @@
 - item: About
-  url: /about/
+  url: post/about/
 - item: Free Resources
-  url: /free/
-- item: Category A
-  url: categories/development/
+  url: categories/free/
+- item: Banana Guides
+  url: categories/BananaGuides/
 - item: Category B
   url: categories/golang/
 
